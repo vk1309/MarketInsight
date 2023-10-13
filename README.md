@@ -1,2 +1,1 @@
-# MarketInsight
-Enhanced Stock Market Prediction
+# DS5110_Group_Project
