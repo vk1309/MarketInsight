@@ -109,4 +109,18 @@ and ploted visualization and concluded that LSTM performed the best.
 
 <img width="445" alt="Screenshot 2023-10-19 at 9 20 57 AM" src="https://github.com/vk1309/MarketInsight/assets/39329373/926c4a90-90cd-4b90-8b04-bbe0e65097a4">
 
+## 4. References:
+
+● Yahoo! (2022, December 1). Dow Jones industrial average (^DJI) historical data.
+Yahoo! Finance. Retrieved November 30, 2022, from
+https://finance.yahoo.com/quote/%5EDJI/history/
+
+● Tableau (2022, November 30). Time series analysis: Definition, types,
+techniques, and when it's used. Tableau. (n.d.). Retrieved November 30, 2022,
+from https://www.tableau.com/learn/articles/time-series-analysis
+
+● Dhaduk, H. (2021, July 18). Stock market forecasting using time series analysis
+with Arima Model. Analytics Vidhya. Retrieved November 30, 2022, from
+https://www.analyticsvidhya.com/blog/2021/07/stock-market-forecasting-usingtime-series-analysis-with-arima-model/ 
+
 
